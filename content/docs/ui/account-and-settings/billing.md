@@ -66,7 +66,7 @@ To reactivate your account, please update your credit card on file by logging in
 
 Each [Marketing Campaigns](https://sendgrid.com/pricing/) package will cover both contact storage and email sends that you use via Single Sends or Automation within Marketing Campaigns. Emails you send via [Email API](#email-api) will not be deducted from your Marketing Campaigns plan.
 
-**Free**
+**Free Plan**
 
 *Features include:*
 
@@ -76,7 +76,7 @@ Each [Marketing Campaigns](https://sendgrid.com/pricing/) package will cover bot
 * 3 Email Testing Credits per month
 * 1 Signup Form
 
-*Limits:*
+*Limits*
 
 * 6,000 emails/month - Emails sent via Single Sends or Automation count towards your allotment. Any Single Sends you attempt to send that exceed your 6,000 limit will send partially up to that limit. 
 
@@ -98,7 +98,7 @@ If you’re on the Free package and hit your contact allotment limit, any active
 
 </call-out>
 
-**Basic**
+**Basic Plan**
 
 *Features include:*
 
@@ -110,12 +110,11 @@ If you’re on the Free package and hit your contact allotment limit, any active
 * Access to Expert Services
 
 *Limits:*
-
 * 5,000 - 15,000 emails/month depending on the plan you purchase. Emails sent via Single Sends count towards your allotment. 
 * Up to 100,000 contacts
 
 
-**Advanced**
+**Advanced Plan**
 
 *Features include:*
 
@@ -135,6 +134,27 @@ If you’re on the Free package and hit your contact allotment limit, any active
 * 1 million+ contacts
 
 If you exceed your plan allotment of contacts or overages you will be charged a [small amount]({{root_url}}/ui/account-and-settings/billing/#limits-and-overage-rates) per email sent and per contact stored, above the limits of your current Marketing package. Any overage charges will appear on the invoice of the month _after_ any over-limit sending and contact storage occurs.
+
+### Understanding Contact Counts in Marketing Campaigns
+
+**Free Plan**
+You can add and store up to 2,000 contacts to your account each month. The number you can add depends on whether you already have contacts stored in your account. For example, if you have 500 contacts in your account, and you haven’t added any yet this month, you can add up to 1,500 more contacts.
+
+If you *update or add new data about existing contacts* in your Marketing Campaigns account, it will not count against the number of contacts you can add. 
+
+If you *delete a contact and re-add them*, that is counted as a new add. 
+
+**Basic & Advanced Plans**
+Your plan tier comes with an allotment of contacts that you can add to and store in your account each month. For example, if you’re on the Advanced 100K plan, you can add up to 100,000 contacts. 
+
+The number you can add each month depends on whether you already have contacts stored in your account. For example, if you currently have 5,000 contacts in your account, and you haven’t added any yet this month, you can add up to 95,000 more contacts.
+
+If you *update or add new data about existing contacts* in your Marketing Campaigns account, it does not count against the number of contacts you can add. 
+
+If you *delete a contact and re-add them*, that is counted as a new add. 
+
+If you exceed your allotment of contacts in a given month, you’ll be charged overages according to your chosen Marketing Campaigns package. 
+
 
 ### Email API
 
