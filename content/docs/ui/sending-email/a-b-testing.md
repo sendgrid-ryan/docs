@@ -19,14 +19,6 @@ Optimize the engagement of your Marketing Campaigns with A/B testing. A/B testin
 
 When recipients interact with the emails sent during an A/B test, we will compare the engagement metrics and automatically choose the winning version of your campaign according to the A/B test criteria you set (opens or clicks).
 
-<call-out>
-	
-All A/B Tests will now automatically select a winner (and send the winning version to the remainder of your audience), based on the criteria that you set. New Marketing Campaigns allows you to A/B test an email with a sample size of 100% of your recipients. 
-When recipients interact with the emails sent during an A/B test, you can compare the engagement metrics and choose the version to send to the remainder of your contacts, or allow Twilio SendGrid to automatically choose the winning version of your campaign according to the A/B test criteria you set.
-
-</call-out>
-
-
 <iframe src="https://player.vimeo.com/video/225916632" width="700" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ##  Set up an A/B test
@@ -92,7 +84,11 @@ To know the direct cause for the best performing variation, we recommend only ma
 
 ##  Select the A/B Test Single Send Sample Size
 
-Choose a percentage of your contact list that will participate in the A/B test. Each variation of the email will be sent to the same number of contacts within the participating subset of your list.
+Choose a percentage of your contact list that will participate in the A/B test. Each variation of the email will be sent to the same number of contacts within the participating portion of your list.
+
+<callout>
+The size of your sample can be up to 100% of your contact list. This may be helpful in the event that you would like to run two tests, send each test to a portion of your list, and manually select a winner. 
+</callout>
 
 ##  Determine the Winning Criteria for the A/B Test
 
